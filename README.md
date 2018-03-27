@@ -4,7 +4,7 @@ The prediction is performed at the basis of typically available passive connecti
 
 This includes in particular:
 
-* [c-mnalib](e-manlib/README.md): Capturing software for future measurement campaigns
+* [c-mnalib](c-manlib/README.md): Capturing software for future measurement campaigns
 * [model](model/README.md): Exported Random Forest model (based on a practical feature subset)
 * [rawData](rawData/README.md): Raw data of a measurement campaign between two large cities in Germany
 * [rm_process](rm_process/README.md): Configuration files for the software Rapid Miner to perform a model synthesis and evaluation based on given training data
