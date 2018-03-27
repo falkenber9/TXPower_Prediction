@@ -1,11 +1,11 @@
 Raw data used for model synthesis of transmission power predictor
 =================================================================
 
-##Data traces
+## Data traces
 
 The provided trace file was captured in February and March 2018 and includes a main trajectory between the two German cities Dortmund and Hamm.
 
-##Data format for traces
+## Data format for traces
 
 1. tx_power:		Transmission Power [dBm], (**LABEL**)
 *  pcc_rsrp:		Reference Signal Received Power [dBm], (Signal strength)
@@ -27,6 +27,6 @@ The provided trace file was captured in February and March 2018 and includes a m
 *  latitude:		GPS latitude
 *  longitude:		GPS longitude
 
-##License
+## License
 
 See the [LICENSE](LICENSE.md) file for license rights and limitations (MIT).
