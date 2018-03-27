@@ -1,0 +1,4 @@
+# ignore the following patterns
+build/*
+log/*
+CMakeLists.txt.user 
